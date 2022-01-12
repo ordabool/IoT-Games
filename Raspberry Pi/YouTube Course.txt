@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=xiR14tSfc-U&list=PLPK2l9Knytg67nkvpnnl81ossAHfOgmqU
+
+Source and written guide can be found here:
+https://core-electronics.com.au/tutorials/raspberry-pi-workshop-for-beginners.html
