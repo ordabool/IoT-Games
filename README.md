@@ -21,6 +21,7 @@ This contains:
 **Raspberry Pi**:
 
 * Use ApplePi Baker for a great tool to created compressed images of SD cards, in order to move between different setups
+* Use the command `pinout` to view the functions of the GPIO pins on the board
 * Add these to the local `~/.zshrc.local` or `~/.bashrc` for easy restart and shutdown of the Pi
 ``` bash
 alias byebye='sudo shutdown -h now'
